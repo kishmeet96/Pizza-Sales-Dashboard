@@ -29,9 +29,6 @@ We would like to visualize various aspects of our pizzas sales data to gain insi
 
 5. Total Pizzas Sold by Pizza Category :- Create a funnel chart that presents the total number of pizzas sold for each pizza category. This chart will allow us to compare the sales performance of different pizza categories. 
 
-## Dashboard Snapshot :-
-![im-page0001]![Pizza sales](https://github.com/kishmeet96/Pizza-Sales-Dashboard/assets/105632928/ec4d43b9-0204-4249-854a-dda0beb3ff24)
-
 6. Top 5 Best Sellers by Revenue, Total Quantity and Total Orders :-
 Create a bar chart highlighting the Top 5 Best Selling Pizzas based on the Revenue, Total Quantity and Total Orders. This chart will help us identify the most popular pizza options.
 
@@ -39,8 +36,9 @@ Create a bar chart highlighting the Top 5 Best Selling Pizzas based on the Reven
 Create a bar chart highlighting the Bottom 5 Best Selling Pizzas based on the Revenue, Total Quantity and Total Orders. This chart will help us identify underperforming or less popular pizza options.
 
 ## Dashboard Snapshot :-
+
+![im-page0001]![Pizza sales](https://github.com/kishmeet96/Pizza-Sales-Dashboard/assets/105632928/ec4d43b9-0204-4249-854a-dda0beb3ff24)
+
 ![im-page0001]!![pizza sales 2](https://github.com/kishmeet96/Pizza-Sales-Dashboard/assets/105632928/8c1f7213-f262-4f75-baac-9e3c4db61d5a)
-
-
 
 
