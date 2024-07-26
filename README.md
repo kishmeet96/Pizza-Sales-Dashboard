@@ -42,3 +42,15 @@ Create a bar chart highlighting the Bottom 5 Best Selling Pizzas based on the Re
 ![im-page0001]!![pizza sales 2](https://github.com/kishmeet96/Pizza-Sales-Dashboard/assets/105632928/8c1f7213-f262-4f75-baac-9e3c4db61d5a)
 
 
+# Project Summary:
+This project involved analyzing pizza sales data to evaluate business performance and guide strategic decision-making. Key metrics such as Total Revenue, Average Order Value, and Total Pizzas Sold were calculated to understand sales dynamics. Visualizations, including hourly and weekly trends, sales distributions by category and size, and performance rankings of top and bottom-selling pizzas, were created to offer actionable insights and support data-driven decisions.
+
+# Key Skills and Achievements:
+
+1) Data Analysis and Metric Calculation: Calculated key performance indicators (KPIs) such as Total Revenue, Average Order Value, Total Pizzas Sold, and Average Pizzas Per Order to assess overall business performance.
+
+2) Advanced Data Visualization: Developed various visualizations including stacked bar charts for hourly trends, line charts for weekly trends, and pie charts for sales distribution by category and size, enhancing data interpretability and decision-making.
+
+3) Performance Insights: Identified top and bottom-performing pizzas by revenue, total quantity, and total orders using bar charts, providing insights into popular and underperforming products.
+
+4) Strategic Reporting: Created comprehensive charts and reports to highlight trends, customer preferences, and sales patterns, aiding in strategic planning and operational improvements for the pizza business.
