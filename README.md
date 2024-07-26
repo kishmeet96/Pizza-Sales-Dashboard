@@ -47,10 +47,12 @@ This project involved analyzing pizza sales data to evaluate business performanc
 
 # Key Skills and Achievements:
 
-1) Data Analysis and Metric Calculation: Calculated key performance indicators (KPIs) such as Total Revenue, Average Order Value, Total Pizzas Sold, and Average Pizzas Per Order to assess overall business performance.
+1) Processed and analyzed a comprehensive dataset of 48,621 rows and 12 columns to calculate and report on key performance indicators (KPIs) including Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, and Average Pizzas per Order, driving actionable business insights.
 
-2) Advanced Data Visualization: Developed various visualizations including stacked bar charts for hourly trends, line charts for weekly trends, and pie charts for sales distribution by category and size, enhancing data interpretability and decision-making.
+2) Conducted Data cleaning and preprocessing to ensure data accuracy and consistency.
 
-3) Performance Insights: Identified top and bottom-performing pizzas by revenue, total quantity, and total orders using bar charts, providing insights into popular and underperforming products.
+3) Designed and implemented 7 impactful visualizations, such as stacked bar charts for hourly order trends, line charts for weekly order trends, and pie charts for sales distribution by pizza category and size, enhancing data-driven decision-making.
 
-4) Strategic Reporting: Created comprehensive charts and reports to highlight trends, customer preferences, and sales patterns, aiding in strategic planning and operational improvements for the pizza business.
+4) Applied Time Series Analysis and Segmentation Analysis to understand order trends and customer preferences.
+
+5) Generated detailed sales insights through a funnel chart showcasing total pizzas sold by category and bar charts identifying the Top 5 and Bottom 5 best-selling pizzas by revenue, quantity, and orders, enabling strategic adjustments and targeted promotions.
